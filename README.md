@@ -1,5 +1,5 @@
-<h1 align="center">Ahoj 👋, som FiloooSK (Filip#0475)</h1>
-<h3 align="center">Som mladý programátor, grafik, hráč...</h3>
+<h1 align="center">Ahoj 👋, som FiloooSK</h1>
+<h3 align="center">Som programátor, grafik, hráč...</h3>
 
 <hr>
 <h2 align="left">Moje projekty</h2>
