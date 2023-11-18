@@ -10,6 +10,7 @@
     <ul>
       <li><a href="https://info.galaxycraft.eu/" target="_blank">GalaxyCraft.eu Administrácia</a> - Administrácia, ktorá slúži na spravovanie a zobrazovanie informácii o hernom účte.</li>
       <li><a href="https://blog.galaxycraft.eu/" target="_blank">GalaxyCraft.eu Blog</a> - Blog šablona, ktorá beží na redakčnom systéme Ghost pre server GalaxyCraft.eu</li>
+      <li><a href="https://vianoce.galaxycraft.eu/" target="_blank">Odpočet do Vianoc</a> - Stránka, ktorá zobrazuje odpočet do Vianoc a prehráva hudbu</li>
     </ul>
   </li>
 </ul>
