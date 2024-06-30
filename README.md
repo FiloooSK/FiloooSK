@@ -4,12 +4,12 @@
 <hr>
 <h2 align="left">Hlavné moje projekty</h2>
 <ul>
-  <li><a href="https://anketabot.eu" target="_blank">AnketaBot.eu</a> - Slovenský Discord Bot, ktorý vytvára prehľadné hlasovanie a obsahuje veľa užitočných funkcii.</li>
+  <li><a href="https://ankecore.xyz" target="_blank"><b>AnkeCore.xyz</b></a> - Discord bot, ktorý obsahuje veľa užitočných príkazov pre váš discord server.</li>
   <li>
-    <a href="https://galaxycraft.eu" target="_blank">GalaxyCraft.eu</a> - Československý minecraft server, ktorý tu je od roku 2016. Server ponúka survival, ktorý  je vylepšený rôznymi doplnkami.
+    <s><a href="https://galaxycraft.eu" target="_blank">GalaxyCraft.eu</a> - Československý minecraft server, ktorý tu je od roku 2016. Server ponúka survival, ktorý  je vylepšený rôznymi doplnkami.</s>
     <ul>
-      <li><a href="https://info.galaxycraft.eu/" target="_blank">GalaxyCraft.eu Administrácia</a> - Administrácia, ktorá slúži na spravovanie a zobrazovanie informácii o hernom účte.</li>
-      <li><a href="https://blog.galaxycraft.eu/" target="_blank">GalaxyCraft.eu Blog</a> - Blog šablona, ktorá beží na redakčnom systéme Ghost pre server GalaxyCraft.eu</li>
+      <s><li><a href="https://info.galaxycraft.eu/" target="_blank">GalaxyCraft.eu Administrácia</a> - Administrácia, ktorá slúži na spravovanie a zobrazovanie informácii o hernom účte.</li></s>
+      <s><li><a href="https://blog.galaxycraft.eu/" target="_blank">GalaxyCraft.eu Blog</a> - Blog šablona, ktorá beží na redakčnom systéme Ghost pre server GalaxyCraft.eu</li></s>
       <li><a href="https://vianoce.galaxycraft.eu/" target="_blank">Odpočet do Vianoc</a> - Stránka, ktorá zobrazuje odpočet do Vianoc a prehráva hudbu</li>
     </ul>
   </li>
