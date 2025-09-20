@@ -29,11 +29,3 @@
 
 # 📢 Advertising & Promotion
 <a href="https://ankecore.xyz" target="_blank"><img src="https://github.com/FiloooSK/FiloooSK/blob/main/assets/ankecore-banner.png" alt="AnkeCore.xyz Banner" width="600" height="auto"/></a>
-
-<br />
-
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=FiloooSK&label=Visits&color=12&icon=5&pretty=true" />
-  </a>
-</p>
