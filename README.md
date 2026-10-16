@@ -6,10 +6,10 @@
 <br />
 
 # ⭐ My Main Projects
-* <a href="https://ankecore.xyz" target="_blank">ANKECORE.xyz</a> (2016 - Present) - A Discord bot that contains many useful commands for your Discord server.
 * <a href="https://casvianoc.sk" target="_blank">CasVianoc.sk</a> (2022 - Present) - A website dedicated to Christmas, featuring a countdown, games, and much more...
 
 ### ❌ Past Projects
+* <a href="https://ankecore.xyz" target="_blank">ANKECORE.xyz</a> (2016 - 2026) - A Discord bot that contains many useful commands for your Discord server.
 * <a href="https://galaxycraft.eu" target="_blank">GalaxyCraft.eu</a> (2016-2023) - Czechoslovak Minecraft server, active from 2016 to 2023. The server offered survival, enhanced with various plugins.
 * <a href="https://bloodbear.cz/banlist/index.php" target="_blank">BloodBear.cz Banlist</a> (2022) - Custom-made LiteBans template for the gaming server BloodBear.cz
 
